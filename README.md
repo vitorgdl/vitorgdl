@@ -1,1 +1,1 @@
-<img src=" [https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg](https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png)" width="50px">
+<img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="50px">
