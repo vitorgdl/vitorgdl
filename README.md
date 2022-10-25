@@ -13,6 +13,7 @@
 
 <div>
    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=vitorgdl&show_icons=true&theme=tokyonight"/>
+    <br>
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgdl&layout=compact&theme=tokyonight"/>
 </div>
 
