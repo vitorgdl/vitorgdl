@@ -12,8 +12,8 @@
     🌱 Eu estou estudando programação web com foco em Fullstack
 
 <div>
-   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=ricardojcosta&show_icons=true&theme=tokyonight"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojcosta&layout=compact&theme=tokyonight"/>
+   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=vitorgdl&show_icons=true&theme=tokyonight"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgdl&layout=compact&theme=tokyonight"/>
 </div>
 
 🔗Let's get connected:
